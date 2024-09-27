@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300735211217",
+    "project_id": "in-and-ex-2b8d0",
+    "storage_bucket": "in-and-ex-2b8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300735211217:android:53fd11cbceee4fd0e2c7f0",
+        "android_client_info": {
+          "package_name": "com.inandex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgrvt1Q2MDdxX-IkoZs64SMm_mAx4Vyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
